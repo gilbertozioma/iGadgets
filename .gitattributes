@@ -5,7 +5,6 @@
 *.html diff=html
 *.md diff=markdown
 *.php diff=php
-*.blade.php linguist-vendored=false
 
 /.github export-ignore
 CHANGELOG.md export-ignore
