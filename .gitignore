@@ -13,4 +13,4 @@ yarn-error.log
 /.idea
 /.vscode
 *.css
-*.blade
+*.blade.php
